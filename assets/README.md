@@ -23,7 +23,6 @@ THEN I find a concise, descriptive title
 HTML.html
 style.css
 
-
 # tools used
 github
 visual studio code
